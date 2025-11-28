@@ -41,7 +41,6 @@ This project was built to simulate a **Metadata Parser** component in an embedde
 * `types.h`: Custom data types for cross-platform compatibility.
 
 ---
-**Author:** [Adhish ECE](https://github.com/Adhish-ece)
 
 ### **Your Action Plan:**
 1.  **Upload the Architecture Diagram.**
