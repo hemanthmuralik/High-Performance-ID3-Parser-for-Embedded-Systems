@@ -9,8 +9,20 @@ A lightweight and memory-optimized ID3 metadata parser written in C, designed fo
 This parser serves as a critical component in modern Edge AI audio processing workflows. Below is the complete data pipeline showing how raw MP3 files are transformed into actionable insights:
 
 ```
-<img width="1615" height="3860" alt="architechture" src="https://github.com/user-attachments/assets/4eecefef-f74b-431a-baf7-709d9e505d09" />
+## 🎯 Data Pipeline Architecture
 
+![Data Pipeline Architecture](architechture.png)
+
+> **💡 Your C Parser acts as the critical bridge** between raw MP3 files and AI-ready structured data
+
+This architecture demonstrates how the ID3 parser integrates into a complete Edge AI audio processing workflow:
+
+- **Input**: MP3 audio files with embedded metadata
+- **Processing**: High-performance C parser with O(1) extraction
+- **Output**: Structured CSV/JSON data for AI models
+- **Deployment**: Edge devices, smart speakers, IoT systems
+
+---
 
 ```
 
