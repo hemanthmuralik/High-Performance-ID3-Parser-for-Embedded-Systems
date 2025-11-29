@@ -8,9 +8,8 @@ A lightweight and memory-optimized ID3 metadata parser written in C, designed fo
 
 This parser serves as a critical component in modern Edge AI audio processing workflows. Below is the complete data pipeline showing how raw MP3 files are transformed into actionable insights:
 
-```mermaid
-<img width="1615" height="3860" alt="Untitled diagram-2025-11-29-063555" src="https://github.com/user-attachments/assets/b41ba0b6-14d8-4c45-9765-2ae8df8c794b" />
-
+```
+[System Architecture Diagram](architecture.jpg)
 ```
 
 **Pipeline Flow:**
